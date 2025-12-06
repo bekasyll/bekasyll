@@ -1,12 +1,14 @@
-# Hi!, I'm Bekasyl Asylbekov
+# Hi! I'm Bekasyl Asylbekov
+
 🌱 Learning **Microservices and DevOps**  
-⚡ Practicing **microservice architecture on the JaryqLibrary project**  
+⚡ Practicing **microservice architecture on the JaryqLibrary project**
 
-###
+---
 
-<img align="right" height="150" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGQ1bHIxZjhtaXlnd3kyMXg0Y2p3M2xlbWVodmM4emZ6eXJ0ZjE3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif"  />
 
-###
+### Tech Stack
+
 <div align="left">
   
   <!-- Programming Languages -->
@@ -56,33 +58,13 @@
   <img width="12" />
 </div>
 
-###
+### Connect with me
 
 <div align="left">
- <a href="https://www.instagram.com/bekasyylll" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
-</a>
-<a href="mailto:bekasylasylbekov@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-</a>
 <a href="https://www.linkedin.com/in/bekasyl/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
 </a>
-</div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bekasyll/bekasyll/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bekasyll/bekasyll/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/bekasyll/bekasyll/output/github-snake.svg" />
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=doniiel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doniiel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+ <a href="https://t.me/bekasyyl" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=23aaea&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Telegram logo" />
+</a>
 </div>
